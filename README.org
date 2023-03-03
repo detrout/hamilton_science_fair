@@ -1,0 +1,8 @@
+* Introduction
+
+Two notebooks related to kids 4th grade science fair project.
+
+- [[https://github.com/detrout/hamilton_science_fair/blob/main/variance-demo.ipynb][variance-demo]] A brief introduction to variance
+- [[https://github.com/detrout/hamilton_science_fair/blob/main/plot-disinfectant.ipynb][plot-disinfectant]] Using python, pandas, seaborn and matplotlib to
+  make plots.
+
